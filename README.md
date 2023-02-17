@@ -1,9 +1,6 @@
 # API de Links
 Essa API permite armazenar e recuperar links com um ID, URL e título. Você pode usar a API para criar uma lista de links que pode ser exibida em uma página da web, por exemplo.
 
-API hospedado em:
-https://link-api.glitch.me
-
 ## Como Usar
 Para começar a usar a API, siga estas etapas:
 
